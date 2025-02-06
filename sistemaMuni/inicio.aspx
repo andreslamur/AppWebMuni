@@ -2,6 +2,6 @@
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
-    <h2> INICIO actiualzido fron 2</h2>
+    <h2> INICIO actiualzido fron 2 actualizado</h2>
 </asp:Content>
 
